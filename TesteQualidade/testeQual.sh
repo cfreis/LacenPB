@@ -1,6 +1,8 @@
 #!/bin/bash
 # Para executar esse script, mude suas permissões com o comando
 # $ chmod 770 testeQual.sh
+# e em seguida
+# $ ./testeQual.sh
 
 disclaimer(){
     opt='N'
