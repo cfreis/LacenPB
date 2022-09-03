@@ -93,11 +93,11 @@ echo
 echo "Quadro 5 - Download dos arquivos de sequenciamento"
 mkdir -p $HOME/analise/amostras
 cd $HOME/analise/amostras
-wget http://dunabioinfo.com/pt/blog/mc01/good.fastq.gz
-wget http://dunabioinfo.com/pt/blog/mc01/bad.fastq.gz  
-wget http://dunabioinfo.com/pt/blog/mc01/RNA-Seq.fastq.gz  
-wget http://dunabioinfo.com/pt/blog/mc01/RRBS.fastq.gz  
-#wget http://dunabioinfo.com/pt/blog/mc01/small_rna.fastq.gz
+wget https://github.com/cfreis/LacenPB/raw/master/TesteQualidade/data/good.fastq.gz
+wget https://github.com/cfreis/LacenPB/raw/master/TesteQualidade/data/bad.fastq.gz  
+wget https://github.com/cfreis/LacenPB/raw/master/TesteQualidade/data/RNA-Seq.fastq.gz  
+wget https://github.com/cfreis/LacenPB/raw/master/TesteQualidade/data/RRBS.fastq.gz  
+#wget https://github.com/cfreis/LacenPB/raw/master/TesteQualidade/data/small_rna.fastq.gz
 
 
 echo "Quadro 7 - Utilizando o FastQC em linha de comando"
