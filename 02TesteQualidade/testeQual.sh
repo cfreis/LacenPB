@@ -14,7 +14,7 @@ disclaimer(){
     echo -e "\t*a comercialização ou adequação a uma finalidade específica*"
     echo -e "\t*                                                          *"
     echo -e "\t*     Você deve assumir todo o risco em utilizá-lo         *"
-    echo -e "\t************************************************************\n"
+    echo -e "\t************************************************************"
     echo -e "\t*      Clovis F Reis - PhD - cfreis230@gmail.com           *"
     echo -e "\t************************************************************\n"
     read -p "Aceita continuar? [s,N] " opt
